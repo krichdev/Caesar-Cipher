@@ -4,4 +4,4 @@ Create a function that will take in a string and a number. The number represents
 ## Setup
 1. Clone or fork this repo
 2. Run `npm install` or `yarn`
-3. Run `npm run test` or `yarn test` to run unit test
+3. Run `npm test` or `yarn test` to run unit test
